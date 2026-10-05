@@ -1,0 +1,5 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: (your answer here) sports analytics, teams analyze spatial tracking data,
+ player biometrics, and historical performance metrics to design game plans,
+ evaluate talent, and make real-time tactical decisions.
