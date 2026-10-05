@@ -1,8 +1,15 @@
 Q1: Why might we consider using Git?
 
 Answer: [Your answer here: ]We use git because tracks changes to files, prevents developers from overwriting each other's work, it acts like a time machine for our code
+
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: (your answer here) sports analytics, teams analyze spatial tracking data,
  player biometrics, and historical performance metrics to design game plans,
  evaluate talent, and make real-time tactical decisions.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: (your answer here): git merge combines branches by creating a new merge commit that
+ preserves full historical context, while git rebase rewrites history by moving your changes
+ to the tip of the target branch for a perfectly linear timeline.
