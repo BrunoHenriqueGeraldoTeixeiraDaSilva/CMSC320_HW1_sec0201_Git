@@ -1,0 +1,3 @@
+Q1: Why might we consider using Git?
+
+Answer: [Your answer here: ]We use git because tracks changes to files, prevents developers from overwriting each other's work, it acts like a time machine for our code
